@@ -4,7 +4,7 @@
       "kty": "RSA",
       "use": "sig",
       "alg": "RS384",
-      "kid": "medeanalytics-key-1",
+      "kid": "hjRyBnUMT2cSdrhSSycp65iygtoboG0uCcyHOTIIA3o",
       "n": "ubpubB_c-VWg6ad3ce5KXxR4e4Hn15fNKWMFrvpm8Ty5Dc3LvBfw48KMVrRGWZ4RNTkgpvmW726_pogaeOi9CpjgjVyUirKH4LPvpZYD2VB8PO67GHB5Qy-li09icRnVBJSrF7gXlf7-wuz9ieAOkUkH3aZ4PkwFLJQxCPbnYvYrY9AZ1mGKgZV0VBhOzPt7Uh632vkBC3hSAN7B2OXuJj1qrpQhhwBnVwaXjneYVLqn4C5UN0VyCTu3wDA5fpJjkfh1cpb9tFOqwy2-l-8G6hlamL61vvvLGE5Cs2Ak4FIK_0zgc553q2qTpb83pu-_tuWgwlzu48pbCq_WtpDAsQ",
       "e": "AQAB"
     }
